@@ -1,4 +1,3 @@
-# Homelab
 ## VirtualBox setting
 - VirtualBox (Oracle)
 - pfSense
